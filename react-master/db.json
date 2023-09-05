@@ -1,0 +1,113 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "heba",
+      "password": "123",
+      "email": "heba@gmail.com"
+    },
+    {
+      "id": "zzz",
+      "name": "hhh",
+      "password": "123",
+      "email": "zainabh123@gmail.com"
+    },
+    {
+      "id": "zainabhassoun",
+      "name": "heba",
+      "password": "123",
+      "email": "hebaabuelhija85@gmail.com"
+    },
+    {
+      "id": "zainabhassoun123@gmail.com",
+      "name": "heba",
+      "password": "123",
+      "email": "hebaabuelhija85@gmail.com"
+    },
+    {
+      "id": "zainabha",
+      "name": "aaa",
+      "password": "123",
+      "email": "zainabhassoun123@gmail.com"
+    },
+    {
+      "id": "heba",
+      "name": "aa",
+      "password": "123",
+      "email": "heba12@gmail.com"
+    },
+    {
+      "id": "bhhh",
+      "name": "kk",
+      "password": "123",
+      "email": "zainabhassoun123@gmail.com"
+    }
+  ],
+  "mangers": [
+    {
+      "id": "2",
+      "name": "zainab",
+      "password": "123",
+      "email": "zainabhassoun123@gmail.com"
+    }
+  ],
+  "product": [
+    {
+      "name": "Ring",
+      "imgUrl": "https://www.moissaniteco.com/cache/media/products-media-large/eng132_mainimage_112658.jpg",
+      "price": "550",
+      "id": "TOJSEYm",
+      "amount": 0
+    },
+    {
+      "name": "Ring",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2ghDlkuJqEsRw1iz7W3hZxYlmcYZiyNIyFq-b5yNaIaA9n0WLm_hKDf6boXCmYXkyRV0&usqp=CAU",
+      "price": "1000",
+      "id": "bzxuUda",
+      "amount": 0
+    },
+    {
+      "id": "AnkgEM1",
+      "name": "Ring",
+      "imgUrl": "https://i.etsystatic.com/19989599/r/il/a23641/2966562933/il_340x270.2966562933_ast4.jpg",
+      "price": "2000",
+      "amount": 10
+    },
+    {
+      "id": "AnkgEMO",
+      "name": "Necklace",
+      "imgUrl": "https://blingvine.com/cdn/shop/products/enchanted-necklace-set-necklace-sets-blingvine-301149_1200x.jpg?v=1641410776",
+      "price": "2000",
+      "amount": 10
+    },
+    {
+      "name": "Necklace",
+      "imgUrl": "https://yrstore.b-cdn.net/images/thumbs/0000175_-_600.jpeg",
+      "price": "1200",
+      "id": "5Tm6otn",
+      "amount": 10
+    },
+    {
+      "id": "AnkgEM2",
+      "name": "Necklace",
+      "imgUrl": "https://i.etsystatic.com/32376090/r/il/423cb6/3608286313/il_340x270.3608286313_k2qr.jpg",
+      "price": "2000",
+      "amount": 10
+    },
+    {
+      "name": "Necklace",
+      "imgUrl": "https://image.doba.com/dg8-LOqPNMnOJobe/dspic.webp",
+      "price": "500",
+      "id": "0wcqdvv",
+      "amount": 9
+    },
+    {
+      "name": "Necklace",
+      "imgUrl": "https://i.etsystatic.com/27292922/r/il/9affad/3827537155/il_300x300.3827537155_idb1.jpg",
+      "price": "700",
+      "id": "wvI33H0",
+      "amount": 10
+    }
+  ],
+  "Cart": []
+}
